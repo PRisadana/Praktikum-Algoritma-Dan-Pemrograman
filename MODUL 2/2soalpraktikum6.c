@@ -11,7 +11,7 @@ int bungabulan(float y, float p, float i, float angsuranpokok);
 void ulang();
 void end();
 
-
+ 
 void mulai(){
     printf("\n\t==============================================");
     printf("\n\t||        SELAMAT DATANG DI PROGRAM         ||");
