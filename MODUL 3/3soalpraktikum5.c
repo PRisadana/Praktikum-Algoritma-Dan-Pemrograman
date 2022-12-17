@@ -12,7 +12,7 @@ void deskripsi();
 void fungsi_enkripsi(char *input, int key);
 void fungsi_deskripsi(char *input, int key);
 void close();
-
+ 
 void mulai(){
     printf("\n\t==============================================");
     printf("\n\t||                                          ||");
