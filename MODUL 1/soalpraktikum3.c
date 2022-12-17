@@ -28,7 +28,7 @@ float fungsi_volume_prismasegitiga(float alassegitiga, float tinggisegitiga, flo
 float kerucut();
 float fungsi_lp_kerucut(float radius, float tinggi);
 float fungsi_volume_kerucut(float radius, float tinggi);
-void end();
+void end(); 
 
 
 void close(){
