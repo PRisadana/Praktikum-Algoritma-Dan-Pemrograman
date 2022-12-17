@@ -61,7 +61,7 @@ void end(){
     printf("\n\t||                                          ||");
     printf("\n\t==============================================\n\n\n");
 }
-
+ 
 void main(){
     int n, pilihan;
     clock_t waktu;
