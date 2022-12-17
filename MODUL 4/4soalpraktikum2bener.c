@@ -6,7 +6,7 @@ void close();
 void end();
 int main();
 void ulang();
-
+ 
 void mulai(){
     printf("\n\t==============================================");
     printf("\n\t||                                          ||");
