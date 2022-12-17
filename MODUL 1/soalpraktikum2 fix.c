@@ -21,7 +21,7 @@ void close(){
   printf("\n\tTekan enter untuk melanjutkan");
   getchar();
   system("clear");
-}
+} 
 
 void end(){
     printf("\n\t==============================================");
