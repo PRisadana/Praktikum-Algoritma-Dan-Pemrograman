@@ -6,7 +6,7 @@ struct mahasiswa {
 	char nama[100];
 	int nilai;
 };
-
+ 
 void open(){
     printf("\n\t==============================================");
     printf("\n\t||                                          ||");
