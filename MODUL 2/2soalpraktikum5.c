@@ -20,7 +20,7 @@ void close(){
     getchar();
     system("clear");
 }
-
+ 
 void mulai(){
     printf("\n\t==============================================");
     printf("\n\t||        SELAMAT DATANG DI PROGRAM         ||");
