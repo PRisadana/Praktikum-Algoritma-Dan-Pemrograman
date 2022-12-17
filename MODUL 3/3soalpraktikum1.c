@@ -18,7 +18,7 @@ void search();
 void close();
 void ulang();
 void selesai();
- 
+  
 void mulai(){
     printf("\n\t==============================================");
     printf("\n\t||                                          ||");
