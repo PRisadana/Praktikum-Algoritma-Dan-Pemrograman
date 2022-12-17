@@ -27,7 +27,7 @@ struct Mahasiswa{
     int nim;
 	char nama[50];
 };
-
+ 
 void open(){
     printf("\n\t==============================================");
     printf("\n\t||                                          ||");
