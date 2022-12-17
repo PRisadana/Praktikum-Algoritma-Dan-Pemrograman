@@ -31,7 +31,7 @@ void mulai(){
     printf("\n\t|| 6. I Putu Eka Putra Juniawan             ||");
     printf("\n\t||    (2205551087)                          ||");
     printf("\n\t|| 7. Ni Putu Intan Oka Apriliana           ||");
-    printf("\n\t||    (2205551109)                          ||");
+    printf("\n\t||    (2205551109)                          ||"); 
     printf("\n\t|| 8. Komang Merthi Utami                   ||");
     printf("\n\t||    (2205551117)                          ||");
     printf("\n\t==============================================");
