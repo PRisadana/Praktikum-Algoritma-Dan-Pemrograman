@@ -13,7 +13,7 @@ float median(float *arr, int n);
 float modus(float *arr, int n);
 float mean(float *arr, int n);
 void ulang();
-
+ 
 void mulai(){
     printf("\n\t==============================================");
     printf("\n\t||                                          ||");
